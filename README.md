@@ -1,4 +1,4 @@
-## Online news Popularity Analysis
+## Online News Popularity Prediction
 This module focuses on deploying machine learning models in production.
 
 The dataset is from UCI Machine learning repository: 
